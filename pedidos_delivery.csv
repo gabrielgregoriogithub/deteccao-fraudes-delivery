@@ -1,0 +1,51 @@
+id,usuario_id,restaurante_id,valor_pedido,qtd_itens,hora_pedido,dia_semana,distancia_km,tempo_entrega_min,forma_pagamento,pedidos_anteriores,cancelamentos_anteriores,mesmo_endereco_anterior,avaliacao_anterior,fraude
+1,U001,R045,85.50,3,19:30,Sexta,2.5,32,Cartao credito,15,0,Sim,4.5,Nao
+2,U002,R012,320.00,8,23:45,Sabado,8.2,65,Cartao credito,2,2,Nao,1.0,Sim
+3,U003,R078,45.90,2,12:15,Terca,1.8,28,Pix,28,0,Sim,4.8,Nao
+4,U004,R034,450.00,12,02:30,Domingo,15.6,95,Cartao credito,1,1,Nao,0.0,Sim
+5,U005,R056,62.70,3,18:45,Quinta,3.1,35,Dinheiro,10,0,Sim,4.2,Nao
+6,U006,R089,180.00,5,22:00,Sexta,5.8,55,Cartao credito,3,3,Nao,2.0,Sim
+7,U007,R023,38.90,2,13:00,Segunda,2.2,30,Pix,45,0,Sim,4.9,Nao
+8,U008,R067,290.00,9,01:15,Sabado,12.4,88,Cartao credito,1,0,Nao,0.0,Sim
+9,U009,R011,55.60,3,19:00,Quarta,2.8,33,Dinheiro,22,1,Sim,3.8,Nao
+10,U010,R045,420.00,11,03:00,Domingo,18.9,110,Cartao credito,0,0,Nao,0.0,Sim
+11,U011,R034,72.30,4,12:30,Terca,3.5,38,Pix,18,0,Sim,4.6,Nao
+12,U012,R078,260.00,7,23:00,Sabado,9.8,78,Cartao credito,2,2,Nao,1.5,Sim
+13,U013,R056,48.50,2,18:00,Quinta,2.1,29,Dinheiro,35,0,Sim,4.7,Nao
+14,U014,R023,380.00,10,00:30,Sexta,16.2,100,Cartao credito,1,1,Nao,0.0,Sim
+15,U015,R089,65.80,3,19:30,Segunda,3.0,36,Pix,12,0,Sim,4.3,Nao
+16,U016,R011,310.00,8,02:00,Domingo,13.5,92,Cartao credito,0,0,Nao,0.0,Sim
+17,U017,R045,42.20,2,13:15,Quarta,1.9,27,Dinheiro,30,0,Sim,4.8,Nao
+18,U018,R067,195.00,6,22:30,Sabado,6.5,60,Cartao credito,3,3,Nao,1.0,Sim
+19,U019,R034,58.90,3,12:00,Terca,2.6,32,Pix,25,0,Sim,4.5,Nao
+20,U020,R078,350.00,9,01:00,Sexta,14.8,98,Cartao credito,1,2,Nao,0.0,Sim
+21,U021,R056,75.40,4,18:30,Quinta,3.4,37,Dinheiro,20,0,Sim,4.4,Nao
+22,U022,R023,28.50,1,13:30,Segunda,1.5,25,Pix,50,0,Sim,5.0,Nao
+23,U023,R089,280.00,8,23:30,Sabado,10.8,82,Cartao credito,2,1,Nao,2.0,Sim
+24,U024,R011,52.60,3,19:15,Quarta,2.4,31,Dinheiro,15,0,Sim,4.6,Nao
+25,U025,R045,410.00,11,02:45,Domingo,17.5,105,Cartao credito,0,0,Nao,0.0,Sim
+26,U026,R034,68.90,4,12:45,Terca,3.2,36,Pix,38,0,Sim,4.7,Nao
+27,U027,R078,170.00,5,21:45,Sexta,5.4,52,Cartao credito,4,4,Nao,1.0,Sim
+28,U028,R056,44.70,2,18:15,Quinta,2.0,28,Dinheiro,28,0,Sim,4.8,Nao
+29,U029,R023,330.00,9,00:15,Sabado,13.8,94,Cartao credito,1,1,Nao,0.0,Sim
+30,U030,R089,61.30,3,13:00,Segunda,2.7,33,Pix,22,0,Sim,4.4,Nao
+31,U031,R011,390.00,10,03:30,Domingo,16.8,108,Cartao credito,0,0,Nao,0.0,Sim
+32,U032,R045,79.80,4,19:00,Quarta,3.6,38,Dinheiro,18,0,Sim,4.3,Nao
+33,U033,R067,240.00,7,22:15,Sabado,8.8,72,Cartao credito,2,2,Nao,1.5,Sim
+34,U034,R034,46.50,2,12:30,Terca,2.2,30,Pix,40,0,Sim,4.9,Nao
+35,U035,R078,360.00,9,01:30,Sexta,15.2,100,Cartao credito,1,2,Nao,0.0,Sim
+36,U036,R056,57.20,3,18:45,Quinta,2.5,32,Dinheiro,25,0,Sim,4.5,Nao
+37,U037,R023,160.00,5,21:30,Sabado,5.0,50,Cartao credito,5,5,Nao,0.5,Sim
+38,U038,R089,49.30,2,13:15,Segunda,2.1,29,Pix,32,0,Sim,4.8,Nao
+39,U039,R011,300.00,8,00:00,Domingo,11.8,86,Cartao credito,2,3,Nao,0.0,Sim
+40,U040,R045,64.60,3,19:30,Quarta,2.9,35,Dinheiro,14,0,Sim,4.6,Nao
+41,U041,R034,440.00,12,02:15,Sabado,18.2,112,Cartao credito,0,0,Nao,0.0,Sim
+42,U042,R078,41.80,2,12:15,Terca,1.7,27,Pix,45,0,Sim,5.0,Nao
+43,U043,R056,215.00,6,22:45,Sexta,7.5,65,Cartao credito,3,3,Nao,1.0,Sim
+44,U044,R023,53.90,3,18:30,Quinta,2.3,31,Dinheiro,20,0,Sim,4.7,Nao
+45,U045,R089,370.00,10,01:45,Domingo,15.8,103,Cartao credito,1,1,Nao,0.0,Sim
+46,U046,R011,71.40,4,13:00,Segunda,3.3,37,Pix,30,0,Sim,4.5,Nao
+47,U047,R045,250.00,7,23:15,Sabado,9.4,76,Cartao credito,2,2,Nao,2.0,Sim
+48,U048,R067,47.10,2,19:15,Quarta,2.0,29,Dinheiro,38,0,Sim,4.8,Nao
+49,U049,R034,320.00,8,00:45,Sexta,12.8,90,Cartao credito,1,3,Nao,0.0,Sim
+50,U050,R078,82.60,4,12:00,Terca,3.8,40,Pix,16,0,Sim,4.4,Nao
